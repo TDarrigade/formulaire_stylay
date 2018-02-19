@@ -1,3 +1,3 @@
 # README
 
-https://formulairedarrigade.herokuapp.com/
+https://formulairedarrigade.herokuapp.com/users/sign_up
